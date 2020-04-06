@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794738234109",
+    "firebase_url": "https://blondel-seumo-portfolio-e0a27.firebaseio.com",
+    "project_id": "blondel-seumo-portfolio-e0a27",
+    "storage_bucket": "blondel-seumo-portfolio-e0a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794738234109:android:8ea90f3e11eac893616494",
+        "android_client_info": {
+          "package_name": "com.blondelseumo.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794738234109-dfucjue14ocsdk5e0id1q6m8kec77f0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFwzWxLByRUdfNQYFS-Q6W5UsCU1gkjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794738234109-dfucjue14ocsdk5e0id1q6m8kec77f0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
